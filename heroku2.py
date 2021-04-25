@@ -31,4 +31,5 @@ def webhook():
         abort(400)
 #57e0107c5767cc545a3e6d9480cbf411f57fe48a31cabe06f2bbb5250869
 if __name__ == '__main__':
-    app.run()
+    port = int(environ['PORT'], 5000))
+    app.run(host='0.0.0.0', port=port)
