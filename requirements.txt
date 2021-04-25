@@ -61,9 +61,6 @@ constantly==15.1.0
 contextvars==2.4
 cookiecutter==1.7.2
 coverage==5.5
-cryptocode==0.1
-Cryptodome==1.0
-cryptography==3.4.6
 cssselect==1.1.0
 cssselect2==0.4.1
 cufflinks==0.17.3
